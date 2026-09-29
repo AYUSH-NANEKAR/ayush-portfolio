@@ -131,7 +131,7 @@ export default function Contact() {
             </a>
 
             <a
-              href="YOUR_LINKEDIN_URL"
+              href="www.linkedin.com/in/ayushnanekar"
               target="_blank"
               rel="noreferrer"
               className="flex items-center gap-5 bg-white p-6 rounded-2xl shadow-md hover:shadow-xl transition-all duration-300"
